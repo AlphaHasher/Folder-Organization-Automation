@@ -28,3 +28,4 @@ if __name__=="__main__":
     direct = input("Please enter the directory:")
     mypath=direct
     sort_files_in_a_folder(mypath)
+    input('Press ENTER to exit')
